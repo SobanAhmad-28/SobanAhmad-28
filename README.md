@@ -1,4 +1,4 @@
-# Hey there, I'm Soban 👋
+# Hey there, I'm Soban Ahmad.
 
 I am a **Computer Science Engineering student** based in Bhopal, India, specializing in **AI/ML** and **Data Science**.
 
